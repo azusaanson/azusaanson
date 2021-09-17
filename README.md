@@ -15,5 +15,6 @@
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://docs.soliditylang.org/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg" alt="solidity" width="40" height="40"/> </a>
+  <a href="https://www.trufflesuite.com/" target="_blank"> <img src="https://www.trufflesuite.com/img/truffle-logomark.svg" alt="truffle" width="40" height="40"/> </a>
 </p>
 
