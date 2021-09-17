@@ -1,4 +1,4 @@
-<h1 align="left">🐧Hi there! Welcome to Anson Lee's GitHub Profile! 🐧👋</h3>
+<h1 align="left">🐧Hi there! Welcome to Anson Lee's GitHub Profile!🐧</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
