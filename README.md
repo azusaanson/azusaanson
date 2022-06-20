@@ -1,6 +1,6 @@
 <h1 align="left">🐧Hi there! Welcome to Anson Lee's GitHub Profile!🐧</h3>
 
-<p>₿ Blockchain and Cryptocurrency ₿</p>
+<p>₿ Blockchain, Cryptocurrency, AI, Data Science ₿</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
