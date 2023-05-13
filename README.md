@@ -15,7 +15,7 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="aws" height="40"/> </a>
 </p>
 
-<h4 align="left">Not using recently or only familiar:</h3>
+<h4 align="left">Not using recently:</h3>
 <p align="left"> 
   <a href="https://www.scala-lang.org/" target="_blank"> <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="python" height="40"/> </a>
   &nbsp;&nbsp;
